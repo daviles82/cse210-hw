@@ -4,22 +4,17 @@ class Program
 {
     static void Main(string[] args)
     {
+        string userInput = "";
+        Reference reference = new Reference("Proverbs", 3, 5, 6);
+        Scripture scripture = new Scripture(reference, "Trust in the lord with all thine heart and lean not on your own understand; in all thy ways acknowledge him, and he shall direct they paths.");
 
-        Fraction f1 = new Fraction();
-        Console.WriteLine(f1.GetFractionString());
-        Console.WriteLine(f1.GetDecimalValue());
-
-        Fraction f2 = new Fraction(5);
-        Console.WriteLine(f2.GetFractionString());
-        Console.WriteLine(f2.GetDecimalValue());
-
-        Fraction f3 = new Fraction(3, 4);
-        Console.WriteLine(f3.GetFractionString());
-        Console.WriteLine(f3.GetDecimalValue());
-
-        Fraction f4 = new Fraction(1, 3);
-        Console.WriteLine(f4.GetFractionString());
-        Console.WriteLine(f4.GetDecimalValue());
-    
+        while (userInput != "quit")
+        {
+            Console.WriteLine(scripture.GetDisplayText());
+            Console.WriteLine();
+            Console.WriteLine("Press enter to continue or type 'quit' to finish");
+            userInput = Console.ReadLine();
+            scripture.HideRandomWords();
+        }
     }
 }
