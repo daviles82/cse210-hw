@@ -1,0 +1,4 @@
+
+
+Customer, John Smith| Order/Quantity, [Mormon Book/5, Bible/2, Welcome Mat/1]
+Customer, Jose Herrero Order/Quantity, [Mormon Book/2, Bible/4, Welcome Mat/8]

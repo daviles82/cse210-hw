@@ -1,0 +1,5 @@
+
+Customer, John Smith| StreetAddress, 123 Main| City, Brookshire| State, Texas| Country, USA
+Customer, Jean Forgeron| StreetAddress, 123 Principal| City, Paris| State, Paris Region| Country, France
+Customer, Jose Herrero| StreetAddress, 123 Central| City, Cancun| State, Quintana Roo| Country, Mexico
+
