@@ -1,0 +1,4 @@
+Running: Distance, 3 miles| Speed, 6.0  mph| Pace, 
+Cycling:  Distance, 7 miles| Speed, 30.0 mph| Pace, 
+Swimming:  Distance, 20 miles| Speed, 0.5 miles | Pace, 
+Running: Distance, 100 miles| Speed, 6.0 mph| Pace, 

@@ -1,0 +1,11 @@
+
+
+Lecture|Introduction to Programming|Learn about programming basics|2023-07-22 10:00 AM|123 MacMini Lane|Brookshire|Texas|USA|David Aviles|35000
+Reception|Networking Event|Meet and greet with professionals|2023-07-22 6:00 PM|456 Iphone Avenue|Fulshear|Idaho|USA|contact@example.com
+OutdoorGathering|Picnic at the Park|Enjoy nature and games|2023-07-23 12:00 PM|789 ScorchingSun Dome|Hottsville|California|USA|Sunny
+
+
+
+
+
+
